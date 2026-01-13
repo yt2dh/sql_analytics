@@ -1,9 +1,10 @@
 # SQL Analytics Project (DuckDB)
 
-A small, runnable SQL portfolio project showing practical data extraction and analytics patterns (joins, aggregations, cohorts, funnels).  
+A small, runnable SQL portfolio project showing practical data extraction and analytics patterns (joins, aggregations, cohorts, funnels).   
+Designed to demonstrate how SQL is used to pull and validate data before downstream analysis in Python.
 
 ## What this demonstrates
-- Clean, readable SQL (CTEs, joins, group-bys, window functions)
+- Clean, readable SQL (CTEs, joins, group-bys; light use of window functions)
 - Data validation checks (join completeness, sanity counts)
 - Common analytics patterns (funnels, ARPU, cohort retention)
 - Reproducible local execution (DuckDB, no server needed)
