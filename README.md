@@ -1,7 +1,6 @@
-# SQL Analytics Mini Project (DuckDB)
+# SQL Analytics Project (DuckDB)
 
 A small, runnable SQL portfolio project showing practical data extraction and analytics patterns (joins, aggregations, cohorts, funnels).  
-Designed for **applied research / data science** roles where SQL is used to pull and validate data before deeper analysis in Python.
 
 ## What this demonstrates
 - Clean, readable SQL (CTEs, joins, group-bys, window functions)
@@ -37,7 +36,7 @@ sql-analytics-mini/
 
 ## Quickstart (Local)
 
-### Option A: DuckDB CLI (recommended)
+### Option A: DuckDB CLI
 1) Install DuckDB: https://duckdb.org/docs/installation/
 2) Run:
 
