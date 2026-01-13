@@ -56,4 +56,4 @@ python run_sql.py
 
 ## Notes
 - The dataset is synthetic (generated for portfolio use).
-- Queries are standard SQL; minor syntax differences may apply across engines.
+- Queries are standard SQL.
